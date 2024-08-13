@@ -1,0 +1,1 @@
+if the git plugin pushes automatically -- like a backup -- then in conjunction with quartz it solves that problem of obsidian's publish option.[]()
