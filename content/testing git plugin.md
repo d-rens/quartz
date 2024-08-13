@@ -1,3 +1,9 @@
+# level 1
+## level 2
+### level 3
+#### level 4
+##### level 5
+###### level 6
 if the git plugin pushes automatically -- like a backup -- then in conjunction with quartz it solves that problem of obsidian's publish option.
 
 seems to work very well, here are some links:
